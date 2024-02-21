@@ -1,4 +1,4 @@
-# wearher-app
+# weather-app 
 
 # javascript
 
